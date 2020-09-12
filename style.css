@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap');
+body{
+    background-color: peachpuff;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h2{
+    color: brown;
+    text-decoration: underline;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+button{
+    background-color: brown;
+    color: white;
+    font-size:120% ;
+    font-family: 'Source Sans Pro', sans-serif;
+}
